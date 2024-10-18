@@ -1,0 +1,11 @@
+Tim 350
+Jane 200
+Alex 400
+Danish 100
+Danish 150
+Bob 350
+danish 0
+danish 400
+danish 400
+Tim 1000
+Bob 350
